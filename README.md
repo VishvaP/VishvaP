@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello World! 👋
+
+I'm **[Vishva Patel](https://www.linkedin.com/in/vishvap/)**, a computer science senior undergrad who is passionate about simplifying things through technology.
+**You can find me on [LinkedIn](https://www.linkedin.com/in/vishvap/)**.
+
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@vishvap&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vishvap/)
+ 
+**Have a look at my [portfolio](https://vishvap.github.io/)!**
+
+**Say Hi on Twitter([@VishvaPt](https://twitter.com/VishvaPt))!** :heart: 💬
 
 <!--
 **VishvaP/VishvaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
