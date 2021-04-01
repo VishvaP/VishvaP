@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Welcome to the world of learning, mentoring, helping and contributing!  
+Welcome to the world of learning, developing, and contributing!  
 
 **Are we meeting first time? Here is my quick intro:**
 
