@@ -4,7 +4,7 @@ Welcome to the world of learning, developing, and contributing!
 
 **Are we meeting first time? Here is my quick intro:**
 
-I'm **[Vishva Patel](https://www.linkedin.com/in/vishvap/)**, a software developer intern and computer science senior undergrad at VIT University, Vellore, India. I am passionate about learning new technologies and using them effectively to solve problems and make world better (still better!). I am continuously improving art of crafting scalable softwares. 
+I'm **[Vishva Patel](https://www.linkedin.com/in/vishvap/)**, a professional software developer. I am passionate about learning new technologies and using them effectively to solve problems and make world better (still better!). I am continuously improving art of crafting scalable softwares. 
 
 Feel free to contribute to any repos here or provide any feedback on new feature addition, code cleaning or refactoring. 
 
